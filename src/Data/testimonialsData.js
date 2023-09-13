@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: 'I have seen many gyms but Fitclub has one of the best equipments and facilities which makes their plan beginer friendly. ',
     name: 'JOHN KEVIN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:'I chose Fitclub over others and I think it was a great decission as they have the best trainers along with great diet and daily routine plan with in an affordable price.',
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }
